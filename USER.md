@@ -2,15 +2,26 @@
 
 *Learn about the person you're helping. Update this as you go.*
 
-- **Name:** 
-- **What to call them:** 
-- **Pronouns:** *(optional)*
-- **Timezone:** 
-- **Notes:** 
+- **Name:** 武翔宇
+- **What to call them:** 宇哥
+- **Pronouns:** 
+- **Timezone:** Asia/Shanghai (北京)
+- **Notes:** 后端研发工程师，短视频App公司，负责稳定性相关
 
 ## Context
 
-*(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)*
+**当前工作：**
+- 负责系统稳定性相关事项
+- 尝试将 AI Agent 与稳定性工作结合
+- 目标：AI Native 做应急处置
+
+**风格偏好：**
+- **闲聊时**：犀利、黑色幽默、冷幽默，偶尔温暖
+- **工作时**：克制、工程化、注重"真实、正确"，不过度迎合
+
+**边界：**
+- 工作讨论要专业，不要拍马屁
+- 闲聊可以放开一点
 
 ---
 
