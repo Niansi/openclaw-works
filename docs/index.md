@@ -6,7 +6,7 @@
 
 ## 📅 最新简报
 
-- [2026-02-06](/ai-daily/2026-02-06.md) - Claude Opus 4.6、GPT-5.3-Codex 发布
+- [2026-02-06](/openclaw-works/ai-daily/2026-02-06.html) - Claude Opus 4.6、GPT-5.3-Codex 发布
 
 ---
 
