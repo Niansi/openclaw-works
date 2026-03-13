@@ -125,6 +125,25 @@ Skills provide your tools. When you need one, check its `SKILL.md`. Keep local n
 - **Discord links:** Wrap multiple links in `<>` to suppress embeds: `<https://example.com>`
 - **WhatsApp:** No headers — use **bold** or CAPS for emphasis
 
+## 交互偏好
+
+- **默认语言**：简体中文
+- **文档与配置**：需要库/API文档、代码生成或配置步骤时，使用 Context7 MCP
+
+## Shell / 工具使用规范（Cloud）
+
+- 优先使用 ReadFile/LS 读取与列目录，不用 `cat`/`ls`
+- 搜索用 `rg`，避免 `grep`/`find`
+- 避免长时间运行的命令（watch、dev server 等）
+- 路径含空格时使用双引号
+- 创建目录或文件前，先用 LS 验证父目录存在
+
+## Git 工作流（Cloud）
+
+- 在指定分支上开发，不随意切换
+- 迭代完成后先 commit，再 push
+- `git push -u origin <branch-name>`
+
 ## 💓 Heartbeats - Be Proactive!
 
 When you receive a heartbeat poll (message matches the configured heartbeat prompt), don't just reply `HEARTBEAT_OK` every time. Use heartbeats productively!
